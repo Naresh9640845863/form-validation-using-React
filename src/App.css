@@ -1,0 +1,24 @@
+.App {
+  width: 100%;
+  text-align: center;
+  background-color: lightgray;
+}
+form{
+  display: inline-block;
+  background-color: yellowgreen;
+  padding: 50px;
+}
+form label{
+  width: 100px;height: auto;
+  display: inline-block;
+}
+form div{
+  margin: 20px;
+}
+span{
+  width: 25px;height: 15px;
+  display: inline-block;
+  font-size: 10px;
+  padding: 3px;
+  border-radius: 5px;
+}
